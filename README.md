@@ -1,0 +1,2 @@
+# franckranaivo/squadinno-importer
+
