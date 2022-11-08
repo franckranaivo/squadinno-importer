@@ -1,0 +1,20 @@
+{
+    "name": "franckranaivo/squadinno-importer",
+    "description": "Base classes for Symfony importer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SquadInno\\Importer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Franck Rodolphe RANAIVO-HARISOA",
+            "email": "franck-rodolphe.ranaivo-harisoa@externe.grdf.fr"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
